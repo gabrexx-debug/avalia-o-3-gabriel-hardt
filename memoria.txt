@@ -1,3 +1,5 @@
 gravar
 memorizar 
 fluir 
+força a maquina no processo
+correr
